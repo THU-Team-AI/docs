@@ -1,0 +1,8 @@
+baseURL = 'https://thu-team-ai.github.io/'
+languageCode = 'en-us'
+title = 'Docs - AI-Study-Companion'
+
+[[menu.main]]
+  name = "Doxygen"
+  url = "/doxygen/"
+  weight = 2
